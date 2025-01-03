@@ -1,4 +1,4 @@
-# CF-Scraper
+# CF-Insights-Dashboard
 
 A Codeforces Scraper that visually represents your codeforces submissions and contests data.
 
